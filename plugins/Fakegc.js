@@ -12,11 +12,11 @@ const anu = {
 	},
 	"message": {
 		"groupInviteMessage": {
-			"groupJid": "6285240750713-1610340626@g.us",
-			"inviteCode": "mememteeeekkeke",
-			"groupName": "P", 
+			"groupJid": "6285731855426-1610340626@g.us",
+			"inviteCode": "IKcqBMcirblBbc9SqpKuPu",
+			"groupName": "HanBotz", 
             "caption": "Hi lort", 
-            'jpegThumbnail': fs.readFileSync('./src/RadBotZ.jpg')
+            'jpegThumbnail': fs.readFileSync('./src/hisoka.jpg')
 		}
 	}
 }
